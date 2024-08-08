@@ -3,6 +3,20 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+.section-title {
+    color: #181818;
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.section-description {
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
 .btn-primary {
     border-radius: 5px;
     background-color: #FD6E0A;
@@ -88,4 +102,14 @@ nav a {
 
 .banner-description {
     margin-top: 20px;
+}
+
+/* main section style */
+
+/* about section style */
+.about {
+    padding: 130px;
+    border-radius: 10px;
+    background-color: #FFF8F3;
+    margin: 130px 0;
 }
